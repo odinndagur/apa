@@ -5,3 +5,9 @@
 	align-items:center;
 	height:100%;
 }
+
+#input-form {
+	display:flex;
+	flex-direction:column;
+	gap:2rem;
+}
